@@ -1,4 +1,4 @@
-# Privacy Policy
+# Aviation Altimeter Privacy Policy
 Updated October, 2019
 
 This following document sets forth the Privacy Policy for the Aviation Altimeter app for iOS.
